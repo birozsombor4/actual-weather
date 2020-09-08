@@ -2,7 +2,7 @@
 
 This React.js application is capable to tell you the actual weather. It uses FETCH API and gather real time information from [OpenWeather](https://openweathermap.org/api).
 
-You can try the deployed version here: [https://birozsombor4-weather.herokuapp.com/](https://birozsombor4-weather.herokuapp.com/)
+You can try the deployed version here: [http://birozsombor4-weather.herokuapp.com/](https://birozsombor4-weather.herokuapp.com/)
 
 #### Available Scripts
 
